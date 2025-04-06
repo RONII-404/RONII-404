@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Khamdihi!
+# 👋 Halo, Saya Ronii!
 
 Saya adalah seorang **Software Developer** yang memiliki keahlian utama dalam **Node.js, JavaScript**, dan **Python**. Dengan fokus pada pengembangan solusi teknologi yang **efisien**, **aman**, dan **berdampak nyata**, saya berkomitmen untuk membantu bisnis dan individu dalam menciptakan aplikasi dan sistem yang inovatif.
 
@@ -24,14 +24,6 @@ Saya adalah seorang **Software Developer** yang memiliki keahlian utama dalam **
 🔹 **Bahasa Pemrograman**: Python, JavaScript, Node.js  
 🔹 **Pengembangan Web & Backend**: Express.js, REST API, WebSocket  
 🔹 **Minat Khusus**: Automasi, Keamanan Teknologi, dan Optimasi Sistem  
-
----
-
-## 📬 **Hubungi Saya**
-📧 **Email**: [ronidev.id@gmail.com](mailto:ronidev.id@gmail.com)  
-📱 **WhatsApp**: [+62 838-5080-976](https://wa.me/628385080976)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/dWxmYWgu) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@khamdihidev)  
 
 ---
 
